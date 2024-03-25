@@ -1,0 +1,2 @@
+%障碍id 	 障碍x 	  障碍y 	  方向角     速度  障碍radius_warning 	 斥力系数krep 	 
+1 	 2 	  1 	  -90        1      5		           0
